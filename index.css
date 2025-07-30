@@ -24,10 +24,7 @@ main
     margin: 0 auto;
 }
 
-footer {
-    position: fixed; 
-    bottom: 10px; 
-    left: 10px; 
+footer { 
     color: #666; 
     font-size: small; 
     text-align: left; 
